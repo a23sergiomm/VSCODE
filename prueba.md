@@ -19,3 +19,27 @@ para hacer una lista ordenada
     1. una lista dentro de otra
 - otro elemento
 
+> se usa par a hacer citas o notas o para un footer
+
+[enlace](aqui se pone ña direccion de la pagina Web)
+
+![alternativo](https://images.app.goo.gl/yoL8ae6h2gcAJ5iy8)
+
+lista para hacer ñista y marcar
+
+- [ ] Tarea1
+- [X] Tarea3 para marcar se pone una X, dentro de los corchetes
+- [ ] Tarea2
+  
+```
+Para escribir codigo
+```
+
+```java
+System.out.println("Hola");
+```
+
+```html
+ <h1>Titulo</h1>
+```
+
